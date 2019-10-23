@@ -12,6 +12,7 @@ Automation Scripts developed and tested in:
 - Windows 7 Professional
 - Visual Studio Code
   Version: 1.39.2
+- Browser - Chrome version 78
 - Node.js, Protractor using Javascript
 
 3. Execute instructions
