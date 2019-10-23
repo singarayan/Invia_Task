@@ -18,6 +18,7 @@ Automation Scripts developed and tested in:
 3. Execute instructions
 -----------------------
 Step : 1 - Please ensure required npm package for Protractor installed
-Step : 2 - Download the uploaded InviaQA_conf.js and InviaQA_spec.js files from https://github.com/singarayan/Invia_Task
-Step : 3 - Execute InviaQA_conf.js from copied locations
-Step : 4 - Automation script will be successfully executed
+step : 2 - webdriver-manager update --chrome (to ensure chrome latest version installed) 
+Step : 3 - Download the uploaded InviaQA_conf.js and InviaQA_spec.js files from https://github.com/singarayan/Invia_Task
+Step : 4 - Execute InviaQA_conf.js from copied locations
+Step : 5 - Automation script will be successfully executed
